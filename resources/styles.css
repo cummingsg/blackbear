@@ -1,0 +1,48 @@
+/* Global */
+body {
+    background-color: black;
+    text-align: center;
+}
+
+/* titles */
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: rgb(190, 190, 190);
+    
+}
+
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 32px;
+    color: rgb(190, 190, 190);
+}
+
+a {
+    color: gray ;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(39, 82, 39);
+    text-decoration: underline;
+}
+
+/* main content */
+.writeup {
+    font-family: Verdana;
+    font-size: 21px;
+    color: grey;
+    padding-bottom: 20px;
+}
+img {
+    padding-bottom: 25px;
+}
+
+/* footer */
+.foot {
+    color: grey;
+    text-align: center;
+}
